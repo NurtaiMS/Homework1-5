@@ -1,4 +1,4 @@
-import java.io.FileReader;
+import java.io.FileReader; //Задача 5: Логирование ошибок
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
